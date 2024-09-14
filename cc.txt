@@ -1,0 +1,4 @@
+cloud service
+IAAS
+PAAS
+SAAS
